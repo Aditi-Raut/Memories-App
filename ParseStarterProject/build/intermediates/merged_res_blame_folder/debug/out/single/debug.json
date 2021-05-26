@@ -1,15 +1,43 @@
 [
     {
+        "merged": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_memories.xml.flat",
+        "source": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_memories.xml"
+    },
+    {
         "merged": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_pexels.jpeg.flat",
+        "source": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\pexels.jpeg"
     },
     {
         "merged": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_instagram.png.flat",
-        "source": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\instagram.png"
+        "merged": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_a1.png.flat",
+        "source": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\a1.png"
+    },
+    {
+        "merged": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_abc.jpeg.flat",
+        "source": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\abc.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_a.jpeg.flat",
+        "source": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\a.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_abb.PNG.flat",
+        "source": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\abb.PNG"
+    },
+    {
+        "merged": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_create_memory.xml.flat",
+        "source": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_create_memory.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_aabb.PNG.flat",
+        "source": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\aabb.PNG"
     },
     {
         "merged": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu_share_menu.xml.flat",
@@ -24,15 +52,11 @@
         "source": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_list.xml.flat",
-        "source": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_user_list.xml"
+        "merged": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_memory_details.xml.flat",
+        "source": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_memory_details.xml"
     },
     {
         "merged": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_feed.xml.flat",
-        "source": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_user_feed.xml"
     }
 ]

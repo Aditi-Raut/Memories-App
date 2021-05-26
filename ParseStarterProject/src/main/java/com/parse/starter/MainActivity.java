@@ -13,6 +13,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.KeyEvent;
 import android.view.View;
+import android.view.Window;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
 import android.widget.EditText;
@@ -42,8 +43,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
   //To switch to screen with the list of users after login or sign up or if user is already logged in.
   public void showUserList()
   {
-    Intent intent = new Intent(getApplicationContext(),UserListActivity.class);
+    Intent intent = new Intent(getApplicationContext(),MemoriesActivity.class);
     startActivity(intent);
+    finish();
   }
 
   //For Keyboard settings.
@@ -147,7 +149,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
 
-    setTitle("InstaClone");
+    setTitle("Kioku");
 
     logInTextView = (TextView) findViewById(R.id.logInTextView);
     logInTextView.setOnClickListener(this);

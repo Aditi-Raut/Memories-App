@@ -1,17 +1,20 @@
-com/parse/starter/StarterApplication.java
- com.parse.starter.StarterApplication
 com/parse/starter/BuildConfig.java
  com.parse.starter.BuildConfig
+com/parse/starter/StarterApplication.java
+ com.parse.starter.StarterApplication
 com/parse/starter/MainActivity.java
  com.parse.starter.MainActivity
  com.parse.starter.MainActivity$1
  com.parse.starter.MainActivity$2
-com/parse/starter/UserListActivity.java
- com.parse.starter.UserListActivity
- com.parse.starter.UserListActivity$1
- com.parse.starter.UserListActivity$2
- com.parse.starter.UserListActivity$3
-com/parse/starter/UserFeedActivity.java
- com.parse.starter.UserFeedActivity
- com.parse.starter.UserFeedActivity$1
- com.parse.starter.UserFeedActivity$1$1
+com/parse/starter/CreateMemoryActivity.java
+ com.parse.starter.CreateMemoryActivity
+ com.parse.starter.CreateMemoryActivity$1
+ com.parse.starter.CreateMemoryActivity$2
+com/parse/starter/MemoriesActivity.java
+ com.parse.starter.MemoriesActivity
+ com.parse.starter.MemoriesActivity$1
+ com.parse.starter.MemoriesActivity$2
+com/parse/starter/MemoryDetails.java
+ com.parse.starter.MemoryDetails
+ com.parse.starter.MemoryDetails$1
+ com.parse.starter.MemoryDetails$2

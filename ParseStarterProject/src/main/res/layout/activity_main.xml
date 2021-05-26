@@ -12,30 +12,34 @@
     android:id="@+id/backgroundLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingBottom="@dimen/activity_vertical_margin"
+
     tools:context=".MainActivity">
 
     <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/abb" />
+
+    <ImageView
         android:id="@+id/logoImageView"
-        android:layout_width="150dp"
-        android:layout_height="150dp"
+        android:layout_width="101dp"
+        android:layout_height="113dp"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:layout_marginTop="44dp"
-        android:layout_marginEnd="116dp"
-        android:layout_marginRight="116dp"
-        app:srcCompat="@drawable/instagram" />
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="152dp"
+        android:layout_marginRight="152dp"
+        app:srcCompat="@drawable/a1" />
 
     <EditText
         android:id="@+id/usernameEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/logoImageView"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="29dp"
         android:ems="10"
         android:hint="Username"
         android:inputType="textPersonName" />
@@ -57,9 +61,9 @@
         android:layout_below="@+id/passwordEditText"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:layout_marginTop="46dp"
-        android:layout_marginEnd="138dp"
-        android:layout_marginRight="138dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="144dp"
+        android:layout_marginRight="144dp"
         android:onClick="signUpClick"
         android:text="Sign Up" />
 
@@ -70,10 +74,13 @@
         android:layout_below="@+id/passwordEditText"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:layout_marginTop="70dp"
-        android:layout_marginEnd="43dp"
-        android:layout_marginRight="43dp"
+        android:layout_marginTop="116dp"
+        android:layout_marginEnd="163dp"
+        android:layout_marginRight="163dp"
+        android:background="#8BC34A"
+        android:backgroundTint="#CDDC39"
         android:text="or Log In"
-        android:textColor="#03A9F4"
-        android:textSize="20sp" />
+        android:textColor="#9C27B0"
+        android:textSize="20sp"
+        android:textStyle="bold" />
 </RelativeLayout>
