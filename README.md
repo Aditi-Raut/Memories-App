@@ -1,5 +1,5 @@
 # Memories-App
-This a simple CRUD application called Kioku. This app can be used as a diary or notes app. A user can sigh up and login and store their information
+This a simple CRUD application called Kioku. This app can be used as a diary or notes app. A user can sign up and login and store their information
 
 # Technologies Used
 1. Android Studio
